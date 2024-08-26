@@ -52,6 +52,7 @@ Para restablecer la búsqueda, usa el botón "Actualizar".
 
 #### Cita la Fuente de los Íconos:
 ````bash Íconos obtenidos de https://icons8.com ````
-Íconos: Los íconos utilizados en los botones (Añadir Fecha, Buscar Hotel Más Barato, Actualizar) fueron obtenidos de Icons8, un recurso gratuito para íconos.
+
+Los íconos utilizados en los botones (Añadir Fecha, Buscar Hotel Más Barato, Actualizar) fueron obtenidos de Icons8, un recurso gratuito para íconos.
 
 
