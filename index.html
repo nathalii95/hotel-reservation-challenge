@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reserva de Hoteles</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Reserva de Hoteles</h1>
+
+<div class="container">
+    <div class="toggle-container">
+        <label for="customerType">Cliente Regular</label>
+        <label class="toggle">
+            <input type="checkbox" id="customerType">
+            <span class="slider"></span>
+        </label>
+        <label for="customerType">Cliente con Recompensas</label>
+    </div>
+
+    <div class="date-inputs" id="dateInputsContainer">
+        <input type="date" class="date-input" placeholder="Fecha">
+    </div>
+    
+    <div class="buttons-container">
+        <button onclick="addDateInput()">
+            <img src="https://img.icons8.com/material-outlined/24/plus-math.png" alt="Añadir">
+            Añadir Fecha
+        </button>
+        <button onclick="findCheapestHotel()">
+            <img src="https://img.icons8.com/material-outlined/24/search.png" alt="Buscar">
+            Buscar Hotel Más Barato
+        </button>
+        <button onclick="resetForm()">
+            <img src="https://img.icons8.com/material-outlined/24/refresh.png" alt="Actualizar">
+            Actualizar
+        </button>
+    </div>
+</div>
+
+<div id="hotelsContainer">
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
