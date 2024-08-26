@@ -1,5 +1,6 @@
 # Hotel Reservation Challenge
 ## Descripción del Proyecto
+
 Esta aplicación permite a los usuarios buscar el hotel más económico basado en su tipo de cliente (Regular o con Recompensas) y las fechas de su estancia. El diseño se centró en una interfaz sencilla y clara, utilizando una paleta de colores suaves y un enfoque en la usabilidad.
 
 ## Diseño de la Solución
@@ -10,9 +11,13 @@ Esta aplicación permite a los usuarios buscar el hotel más económico basado e
 
 Desarrollada con HTML y CSS, la interfaz presenta un diseño limpio con un fondo de color pastel rosado y botones con íconos que facilitan la interacción. Los elementos están organizados en una cuadrícula para asegurar un layout consistente.
 
-### 2.Lógica del Negocio: Implementada en JavaScript, la lógica determina el hotel más económico para el usuario según su tipo y las fechas seleccionadas. Utiliza una estructura de datos para almacenar los hoteles y sus tarifas, y algoritmos para calcular el costo total de la estancia.
+### 2.Lógica del Negocio: 
 
-### 3.Responsividad: El diseño es responsive, adaptándose a diferentes tamaños de pantalla para asegurar una experiencia óptima en dispositivos móviles y de escritorio.
+Implementada en JavaScript, la lógica determina el hotel más económico para el usuario según su tipo y las fechas seleccionadas. Utiliza una estructura de datos para almacenar los hoteles y sus tarifas, y algoritmos para calcular el costo total de la estancia.
+
+### 3.Responsividad: 
+
+El diseño es responsive, adaptándose a diferentes tamaños de pantalla para asegurar una experiencia óptima en dispositivos móviles y de escritorio.
 
 ## Suposiciones del Problema
    
