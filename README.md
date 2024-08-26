@@ -9,15 +9,15 @@ Esta aplicación permite a los usuarios buscar el hotel más económico basado e
 
 ### 1.Interfaz de Usuario:
 
-Desarrollada con HTML y CSS, la interfaz presenta un diseño limpio con un fondo de color pastel rosado y botones con íconos que facilitan la interacción. Los elementos están organizados en una cuadrícula para asegurar un layout consistente.
+Desarrollado con HTML y CSS, la interfaz presenta un diseño limpio con un fondo de color pastel rosado y botones con íconos que facilitan la interacción. Los elementos están organizados en una cuadrícula para asegurar un layout consistente.
 
 ### 2.Lógica del Negocio: 
 
-Implementada en JavaScript, la lógica determina el hotel más económico para el usuario según su tipo y las fechas seleccionadas. Utiliza una estructura de datos para almacenar los hoteles y sus tarifas, y algoritmos para calcular el costo total de la estancia.
+Implementado en JavaScript, la lógica determina el hotel más económico para el usuario según su tipo y las fechas seleccionadas. Tiene estructura de datos de los hoteles, sus tarifas.
 
 ### 3.Responsividad: 
 
-El diseño es responsive, adaptándose a diferentes tamaños de pantalla para asegurar una experiencia óptima en dispositivos móviles y de escritorio.
+El diseño es responsive, adaptándose a diferentes tamaños de pantalla en dispositivos móviles y de escritorio.
 
 ## Suposiciones del Problema
    
